@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "biomejs.biome",
+    "apollographlc.vscode-apollo",
+    "bradlc.vscode-tailwindcss",
+    "GraphQl.vscode-graphql-syntax",
+    "vitest.explorer",
+    "YoavBls.pretty-ts-errors",
+    "mikestead.dotenv",
+    "ms-playwright.playwright"
+]
+}
